@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="developer_name_text">Akmal Hisyam</string>
+    <string name="developer_desc_text">Android Developer Extraordinaire</string>
+    <string name="phone_no_text">+60 19-9127346</string>
+    <string name="domain_text">AndroidDev</string>
+    <string name="email_text">hisye@gmail.com</string>
+</resources>
